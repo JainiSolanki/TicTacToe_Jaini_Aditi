@@ -94,6 +94,7 @@ if(winner !=' ')
 else{
     cout<<"Draw"<<endl;
 }
-
+   cout<<"Jaini Solanki - 23CS096";
+   cout<<"Aditi Vanara - 23CS101";
 }
 
